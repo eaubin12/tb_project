@@ -1,0 +1,27 @@
+ #!/bin/tcsh
+#SBATCH --export=ALL
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --time=1:00:00
+#SBATCH --account=t26_quantchem 
+
+
+#bash 
+#export OMP_NUM_THREADS=36
+#export OMP_STACKSIZE=512M
+#ulimit -s unlimited # stack size
+#ulimit -l unlimited # max locked memory
+#ulimit -m unlimited # max memory size
+#ulimit -v unlimited # virtual memory
+
+# tcsh 
+setenv KMP_STACKSIZE 2G 
+setenv OMP_STACKSIZE 2G 
+
+limit stacksize unlimited # stack size 
+limit memorylocked unlimited # max locked memory
+limit memoryuse unlimited #
+limit vmemoryuse unlimited #
+limit coredumpsize unlimited 
+
+ThunderBoltz_executable_location  > job.out

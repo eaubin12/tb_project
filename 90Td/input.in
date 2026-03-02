@@ -1,0 +1,52 @@
+L 1e-06
+SP 2
+NP 30000 3000
+TP 0.0 0.0259
+VV 0.0 0.0
+QP -1.0 0.0
+MP 0.00054857 28.0
+NS 30000
+VS 1000
+DT 1.9747428018920142e-10
+E -270.0
+ET 0.0
+B 0.0 0.0 0.0
+FV 1000 1000000 0
+EX 0
+MEM 0.0
+SE 0
+OS 100
+CR 0
+CS cross_sections/Ar.dat 0 1 ElasticFixedParticle2 0.0 0 1 Aubin 0.03692879 -0.52882941 2.7433078 -6.13725852 5.93607477 0.62397821 6.78989951 0.02070034 0.02776315737563153 21.228379667095478 -23.75016253252242 0.9466272998728666 0.11283056349649012 -1.153639478304373 0.272605029004445 2.6702725175486695 -19.623984046695664 0.1022336029502923 -17.051284733027128 37.35215986412038 -42.522758024317625 3.683509334785247 -0.28867636616755804 3.5835112 -0.29951231 0.25420371 -1.09287538 0.2106687 -5.35097981 0.17881514 0.54700077 -2.04784804 7.58279268 1.05449631
+CS cross_sections/Ar->Ar(3d'[3/2]1).dat 0 1 InelasticFixedParticle2 14.376 0 1
+CS cross_sections/Ar->Ar(3d'[3/2]2).dat 0 1 InelasticFixedParticle2 14.343 0 1
+CS cross_sections/Ar->Ar(3d'[5/2]2).dat 0 1 InelasticFixedParticle2 14.337 0 1
+CS cross_sections/Ar->Ar(3d'[5/2]3).dat 0 1 InelasticFixedParticle2 14.348 0 1
+CS cross_sections/Ar->Ar(3d[1/2]0).dat 0 1 InelasticFixedParticle2 14.069 0 1
+CS cross_sections/Ar->Ar(3d[1/2]1).dat 0 1 InelasticFixedParticle2 14.081 0 1
+CS cross_sections/Ar->Ar(3d[3/2]1).dat 0 1 InelasticFixedParticle2 14.227 0 1
+CS cross_sections/Ar->Ar(3d[3/2]2).dat 0 1 InelasticFixedParticle2 14.1 0 1
+CS cross_sections/Ar->Ar(3d[5/2]2).dat 0 1 InelasticFixedParticle2 14.201 0 1
+CS cross_sections/Ar->Ar(3d[5/2]3).dat 0 1 InelasticFixedParticle2 14.212 0 1
+CS cross_sections/Ar->Ar(3d[7/2]3).dat 0 1 InelasticFixedParticle2 14.165 0 1
+CS cross_sections/Ar->Ar(3d[7/2]4).dat 0 1 InelasticFixedParticle2 14.149 0 1
+CS cross_sections/Ar->Ar(4p'[1/2]0).dat 0 1 InelasticFixedParticle2 13.594 0 1
+CS cross_sections/Ar->Ar(4p'[1/2]1).dat 0 1 InelasticFixedParticle2 13.442 0 1
+CS cross_sections/Ar->Ar(4p'[3/2]1).dat 0 1 InelasticFixedParticle2 13.397 0 1
+CS cross_sections/Ar->Ar(4p'[3/2]2).dat 0 1 InelasticFixedParticle2 13.418 0 1
+CS cross_sections/Ar->Ar(4p[1/2]0).dat 0 1 InelasticFixedParticle2 13.396 0 1
+CS cross_sections/Ar->Ar(4p[1/2]1).dat 0 1 InelasticFixedParticle2 13.074 0 1
+CS cross_sections/Ar->Ar(4p[3/2]1).dat 0 1 InelasticFixedParticle2 13.276 0 1
+CS cross_sections/Ar->Ar(4p[3/2]2).dat 0 1 InelasticFixedParticle2 13.299 0 1
+CS cross_sections/Ar->Ar(4p[5/2]2).dat 0 1 InelasticFixedParticle2 13.227 0 1
+CS cross_sections/Ar->Ar(4p[5/2]3).dat 0 1 InelasticFixedParticle2 13.204 0 1
+CS cross_sections/Ar->Ar(4s'[1/2]0).dat 0 1 InelasticFixedParticle2 11.723 0 1
+CS cross_sections/Ar->Ar(4s'[1/2]1).dat 0 1 InelasticFixedParticle2 11.828 0 1
+CS cross_sections/Ar->Ar(4s[3/2]1).dat 0 1 InelasticFixedParticle2 11.624 0 1
+CS cross_sections/Ar->Ar(4s[3/2]2).dat 0 1 InelasticFixedParticle2 11.549 0 1
+CS cross_sections/Ar->Ar(5s'[1/2]0).dat 0 1 InelasticFixedParticle2 14.312 0 1
+CS cross_sections/Ar->Ar(5s'[1/2]1).dat 0 1 InelasticFixedParticle2 14.33 0 1
+CS cross_sections/Ar->Ar(5s[3/2]1).dat 0 1 InelasticFixedParticle2 14.179 0 1
+CS cross_sections/Ar->Ar(5s[3/2]2).dat 0 1 InelasticFixedParticle2 14.164 0 1
+CS cross_sections/Ar->Ar(Rydberg).dat 0 1 InelasticFixedParticle2 14.5579 0 1
+CS cross_sections/Ar->Ar^+.dat 0 1 IonizationNoEGen 15.76 0 1 Uniform

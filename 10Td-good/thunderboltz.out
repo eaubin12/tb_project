@@ -1,0 +1,179 @@
+RandMax 2147483647
+reading box length: 1.000000e-06 (m)
+reading number of particle types: 2
+reading number of particles of type 0: 10000
+reading number of particles of type 1: 1000
+reading temperature of particle type 0: 0.000000 (eV)
+reading temperature of particle type 1: 0.025900 (eV)
+reading flow velocity of particle type 0: 0.000000 (eV)
+reading flow velocity of particle type 1: 0.000000 (eV)
+reading charge of particle type 0: -1.000000 (elementary charge)
+reading charge of particle type 1: 0.000000 (elementary charge)
+reading mass of particle type 0: 0.000549 (amu)
+reading mass of particle type 1: 28.000000 (amu)
+reading number of time steps: 30000
+reading vsigma max samples: 1000
+reading time step dt: 5.331806e-09
+reading electric field: -1.000000e+01 (V/m)
+reading electric frequency: 0.000000e+00 (Hz)
+reading magnetic field: 0.000000e+00 0.000000e+00 0.000000e+00 (Tesla)
+reading vdf dump spec: 1000 1000000 0
+reading extrapolation option: 0
+reading memory allocation: 0.000000e+00 (GB)
+reading auto dump spec: 0
+reading output stride spec: 100
+reading carry remainder spec: 0
+found cross_sections/Ar.dat file for particle 0 with 1 in indeck, differential model found: Aubin
+found cross_sections/Ar->Ar(3d'[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d'[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d'[5/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d'[5/2]3).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[1/2]0).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[1/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[5/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[5/2]3).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[7/2]3).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(3d[7/2]4).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p'[1/2]0).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p'[1/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p'[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p'[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[1/2]0).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[1/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[5/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4p[5/2]3).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4s'[1/2]0).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4s'[1/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4s[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(4s[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(5s'[1/2]0).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(5s'[1/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(5s[3/2]1).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(5s[3/2]2).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar(Rydberg).dat file for particle 0 with 1 in indeck
+found cross_sections/Ar->Ar^+.dat file for particle 0 with 1 in indeck, differential model found: Uniform
+reading cross_sections/Ar.dat
+reading cross_sections/Ar->Ar(3d'[3/2]1).dat
+reading cross_sections/Ar->Ar(3d'[3/2]2).dat
+reading cross_sections/Ar->Ar(3d'[5/2]2).dat
+reading cross_sections/Ar->Ar(3d'[5/2]3).dat
+reading cross_sections/Ar->Ar(3d[1/2]0).dat
+reading cross_sections/Ar->Ar(3d[1/2]1).dat
+reading cross_sections/Ar->Ar(3d[3/2]1).dat
+reading cross_sections/Ar->Ar(3d[3/2]2).dat
+reading cross_sections/Ar->Ar(3d[5/2]2).dat
+reading cross_sections/Ar->Ar(3d[5/2]3).dat
+reading cross_sections/Ar->Ar(3d[7/2]3).dat
+reading cross_sections/Ar->Ar(3d[7/2]4).dat
+reading cross_sections/Ar->Ar(4p'[1/2]0).dat
+reading cross_sections/Ar->Ar(4p'[1/2]1).dat
+reading cross_sections/Ar->Ar(4p'[3/2]1).dat
+reading cross_sections/Ar->Ar(4p'[3/2]2).dat
+reading cross_sections/Ar->Ar(4p[1/2]0).dat
+reading cross_sections/Ar->Ar(4p[1/2]1).dat
+reading cross_sections/Ar->Ar(4p[3/2]1).dat
+reading cross_sections/Ar->Ar(4p[3/2]2).dat
+reading cross_sections/Ar->Ar(4p[5/2]2).dat
+reading cross_sections/Ar->Ar(4p[5/2]3).dat
+reading cross_sections/Ar->Ar(4s'[1/2]0).dat
+reading cross_sections/Ar->Ar(4s'[1/2]1).dat
+reading cross_sections/Ar->Ar(4s[3/2]1).dat
+reading cross_sections/Ar->Ar(4s[3/2]2).dat
+reading cross_sections/Ar->Ar(5s'[1/2]0).dat
+reading cross_sections/Ar->Ar(5s'[1/2]1).dat
+reading cross_sections/Ar->Ar(5s[3/2]1).dat
+reading cross_sections/Ar->Ar(5s[3/2]2).dat
+reading cross_sections/Ar->Ar(Rydberg).dat
+reading cross_sections/Ar->Ar^+.dat
+Memory per particle: 72 bytes
+Memory for all initial particles: 7.376e-04 GB
+Allocating space for 44000 particles
+------------------------------------
+0, t, 0.000000e+00, KEe, 0.000000, MEe, 0.000000000e+00, E, -10.000000, NP, 10000 1000
+100, t, 5.331806e-07, KEe, 12250.967323, MEe, 1.225096732e+00, E, -10.000000, NP, 10000 1000
+200, t, 1.066361e-06, KEe, 15978.633170, MEe, 1.597863317e+00, E, -10.000000, NP, 10000 1000
+300, t, 1.599542e-06, KEe, 18955.875858, MEe, 1.895587586e+00, E, -10.000000, NP, 10000 1000
+400, t, 2.132722e-06, KEe, 21377.943457, MEe, 2.137794346e+00, E, -10.000000, NP, 10000 1000
+500, t, 2.665903e-06, KEe, 23395.189028, MEe, 2.339518903e+00, E, -10.000000, NP, 10000 1000
+600, t, 3.199083e-06, KEe, 25095.813758, MEe, 2.509581376e+00, E, -10.000000, NP, 10000 1000
+700, t, 3.732264e-06, KEe, 26756.170814, MEe, 2.675617081e+00, E, -10.000000, NP, 10000 1000
+800, t, 4.265444e-06, KEe, 28223.690467, MEe, 2.822369047e+00, E, -10.000000, NP, 10000 1000
+900, t, 4.798625e-06, KEe, 29555.006839, MEe, 2.955500684e+00, E, -10.000000, NP, 10000 1000
+1000, t, 5.331806e-06, KEe, 30909.965927, MEe, 3.090996593e+00, E, -10.000000, NP, 10000 1000
+1100, t, 5.864986e-06, KEe, 32068.856511, MEe, 3.206885651e+00, E, -10.000000, NP, 10000 1000
+1200, t, 6.398167e-06, KEe, 33136.200219, MEe, 3.313620022e+00, E, -10.000000, NP, 10000 1000
+1300, t, 6.931347e-06, KEe, 34086.695789, MEe, 3.408669579e+00, E, -10.000000, NP, 10000 1000
+1400, t, 7.464528e-06, KEe, 34911.373360, MEe, 3.491137336e+00, E, -10.000000, NP, 10000 1000
+1500, t, 7.997708e-06, KEe, 35823.490174, MEe, 3.582349017e+00, E, -10.000000, NP, 10000 1000
+1600, t, 8.530889e-06, KEe, 36821.061735, MEe, 3.682106173e+00, E, -10.000000, NP, 10000 1000
+1700, t, 9.064069e-06, KEe, 37716.950797, MEe, 3.771695080e+00, E, -10.000000, NP, 10000 1000
+1800, t, 9.597250e-06, KEe, 38540.467846, MEe, 3.854046785e+00, E, -10.000000, NP, 10000 1000
+1900, t, 1.013043e-05, KEe, 39292.063449, MEe, 3.929206345e+00, E, -10.000000, NP, 10000 1000
+2000, t, 1.066361e-05, KEe, 40002.069961, MEe, 4.000206996e+00, E, -10.000000, NP, 10000 1000
+2100, t, 1.119679e-05, KEe, 40620.484863, MEe, 4.062048486e+00, E, -10.000000, NP, 10000 1000
+2200, t, 1.172997e-05, KEe, 41190.629128, MEe, 4.119062913e+00, E, -10.000000, NP, 10000 1000
+2300, t, 1.226315e-05, KEe, 41771.384940, MEe, 4.177138494e+00, E, -10.000000, NP, 10000 1000
+2400, t, 1.279633e-05, KEe, 42327.390826, MEe, 4.232739083e+00, E, -10.000000, NP, 10000 1000
+2500, t, 1.332951e-05, KEe, 42789.087009, MEe, 4.278908701e+00, E, -10.000000, NP, 10000 1000
+2600, t, 1.386269e-05, KEe, 43312.664084, MEe, 4.331266408e+00, E, -10.000000, NP, 10000 1000
+2700, t, 1.439588e-05, KEe, 43824.617366, MEe, 4.382461737e+00, E, -10.000000, NP, 10000 1000
+2800, t, 1.492906e-05, KEe, 44255.439163, MEe, 4.425543916e+00, E, -10.000000, NP, 10000 1000
+2900, t, 1.546224e-05, KEe, 44764.392681, MEe, 4.476439268e+00, E, -10.000000, NP, 10000 1000
+3000, t, 1.599542e-05, KEe, 45125.046307, MEe, 4.512504631e+00, E, -10.000000, NP, 10000 1000
+3100, t, 1.652860e-05, KEe, 45322.869853, MEe, 4.532286985e+00, E, -10.000000, NP, 10000 1000
+3200, t, 1.706178e-05, KEe, 45613.797689, MEe, 4.561379769e+00, E, -10.000000, NP, 10000 1000
+3300, t, 1.759496e-05, KEe, 46037.466054, MEe, 4.603746605e+00, E, -10.000000, NP, 10000 1000
+3400, t, 1.812814e-05, KEe, 46419.780383, MEe, 4.641978038e+00, E, -10.000000, NP, 10000 1000
+3500, t, 1.866132e-05, KEe, 46740.280550, MEe, 4.674028055e+00, E, -10.000000, NP, 10000 1000
+3600, t, 1.919450e-05, KEe, 47231.360504, MEe, 4.723136050e+00, E, -10.000000, NP, 10000 1000
+3700, t, 1.972768e-05, KEe, 47449.822108, MEe, 4.744982211e+00, E, -10.000000, NP, 10000 1000
+3800, t, 2.026086e-05, KEe, 47743.424023, MEe, 4.774342402e+00, E, -10.000000, NP, 10000 1000
+3900, t, 2.079404e-05, KEe, 47930.200785, MEe, 4.793020079e+00, E, -10.000000, NP, 10000 1000
+4000, t, 2.132722e-05, KEe, 48081.888879, MEe, 4.808188888e+00, E, -10.000000, NP, 10000 1000
+4100, t, 2.186040e-05, KEe, 48203.942723, MEe, 4.820394272e+00, E, -10.000000, NP, 10000 1000
+4200, t, 2.239358e-05, KEe, 48414.245498, MEe, 4.841424550e+00, E, -10.000000, NP, 10000 1000
+4300, t, 2.292676e-05, KEe, 48584.425317, MEe, 4.858442532e+00, E, -10.000000, NP, 10000 1000
+4400, t, 2.345994e-05, KEe, 48419.766052, MEe, 4.841976605e+00, E, -10.000000, NP, 10000 1000
+4500, t, 2.399313e-05, KEe, 48555.977745, MEe, 4.855597774e+00, E, -10.000000, NP, 10000 1000
+4600, t, 2.452631e-05, KEe, 48692.810391, MEe, 4.869281039e+00, E, -10.000000, NP, 10000 1000
+4700, t, 2.505949e-05, KEe, 48882.737690, MEe, 4.888273769e+00, E, -10.000000, NP, 10000 1000
+4800, t, 2.559267e-05, KEe, 49162.653488, MEe, 4.916265349e+00, E, -10.000000, NP, 10000 1000
+4900, t, 2.612585e-05, KEe, 49365.539249, MEe, 4.936553925e+00, E, -10.000000, NP, 10000 1000
+5000, t, 2.665903e-05, KEe, 49519.320751, MEe, 4.951932075e+00, E, -10.000000, NP, 10000 1000
+5100, t, 2.719221e-05, KEe, 49695.661913, MEe, 4.969566191e+00, E, -10.000000, NP, 10000 1000
+5200, t, 2.772539e-05, KEe, 49795.047475, MEe, 4.979504747e+00, E, -10.000000, NP, 10000 1000
+5300, t, 2.825857e-05, KEe, 49847.480170, MEe, 4.984748017e+00, E, -10.000000, NP, 10000 1000
+5400, t, 2.879175e-05, KEe, 49874.949667, MEe, 4.987494967e+00, E, -10.000000, NP, 10000 1000
+5500, t, 2.932493e-05, KEe, 50197.202876, MEe, 5.019720288e+00, E, -10.000000, NP, 10000 1000
+5600, t, 2.985811e-05, KEe, 50338.438905, MEe, 5.033843890e+00, E, -10.000000, NP, 10000 1000
+5700, t, 3.039129e-05, KEe, 50473.624206, MEe, 5.047362421e+00, E, -10.000000, NP, 10000 1000
+5800, t, 3.092447e-05, KEe, 50686.091890, MEe, 5.068609189e+00, E, -10.000000, NP, 10000 1000
+5900, t, 3.145765e-05, KEe, 50846.506219, MEe, 5.084650622e+00, E, -10.000000, NP, 10000 1000
+6000, t, 3.199083e-05, KEe, 50806.745546, MEe, 5.080674555e+00, E, -10.000000, NP, 10000 1000
+6100, t, 3.252401e-05, KEe, 50839.447856, MEe, 5.083944786e+00, E, -10.000000, NP, 10000 1000
+6200, t, 3.305719e-05, KEe, 50899.586615, MEe, 5.089958662e+00, E, -10.000000, NP, 10000 1000
+6300, t, 3.359038e-05, KEe, 50897.723492, MEe, 5.089772349e+00, E, -10.000000, NP, 10000 1000
+6400, t, 3.412356e-05, KEe, 51034.959763, MEe, 5.103495976e+00, E, -10.000000, NP, 10000 1000
+6500, t, 3.465674e-05, KEe, 51148.550754, MEe, 5.114855075e+00, E, -10.000000, NP, 10000 1000
+6600, t, 3.518992e-05, KEe, 51162.961321, MEe, 5.116296132e+00, E, -10.000000, NP, 10000 1000
+6700, t, 3.572310e-05, KEe, 51161.229895, MEe, 5.116122990e+00, E, -10.000000, NP, 10000 1000
+6800, t, 3.625628e-05, KEe, 51074.360660, MEe, 5.107436066e+00, E, -10.000000, NP, 10000 1000
+6900, t, 3.678946e-05, KEe, 51066.863016, MEe, 5.106686302e+00, E, -10.000000, NP, 10000 1000
+7000, t, 3.732264e-05, KEe, 51041.670067, MEe, 5.104167007e+00, E, -10.000000, NP, 10000 1000
+7100, t, 3.785582e-05, KEe, 51037.778992, MEe, 5.103777899e+00, E, -10.000000, NP, 10000 1000
+7200, t, 3.838900e-05, KEe, 51092.506839, MEe, 5.109250684e+00, E, -10.000000, NP, 10000 1000
+7300, t, 3.892218e-05, KEe, 51115.367387, MEe, 5.111536739e+00, E, -10.000000, NP, 10000 1000
+7400, t, 3.945536e-05, KEe, 51310.728706, MEe, 5.131072871e+00, E, -10.000000, NP, 10000 1000
+7500, t, 3.998854e-05, KEe, 51296.427743, MEe, 5.129642774e+00, E, -10.000000, NP, 10000 1000
+7600, t, 4.052172e-05, KEe, 51293.081739, MEe, 5.129308174e+00, E, -10.000000, NP, 10000 1000
+7700, t, 4.105490e-05, KEe, 51297.849134, MEe, 5.129784913e+00, E, -10.000000, NP, 10000 1000
+7800, t, 4.158808e-05, KEe, 51360.279461, MEe, 5.136027946e+00, E, -10.000000, NP, 10000 1000
+7900, t, 4.212126e-05, KEe, 51311.427196, MEe, 5.131142720e+00, E, -10.000000, NP, 10000 1000
+8000, t, 4.265444e-05, KEe, 51326.028771, MEe, 5.132602877e+00, E, -10.000000, NP, 10000 1000
+8100, t, 4.318763e-05, KEe, 51468.705357, MEe, 5.146870536e+00, E, -10.000000, NP, 10000 1000
+8200, t, 4.372081e-05, KEe, 51364.653995, MEe, 5.136465400e+00, E, -10.000000, NP, 10000 1000
+8300, t, 4.425399e-05, KEe, 51264.526884, MEe, 5.126452688e+00, E, -10.000000, NP, 10000 1000
